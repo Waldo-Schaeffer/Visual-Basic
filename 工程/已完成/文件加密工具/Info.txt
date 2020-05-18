@@ -1,0 +1,25 @@
+
+1 VERSIONINFO
+FILEVERSION 2,3,1,3
+PRODUCTVERSION 2,3,1,3
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "080404B0"
+	{
+		VALUE "CompanyName", "JiaXin"
+		VALUE "ProductName", "文件加密工具"
+		VALUE "FileVersion", "2.3.1.3"
+		VALUE "ProductVersion", "2.3.1.3"
+		VALUE "InternalName", "文件加密工具"
+		VALUE "OriginalFilename", "文件加密工具.exe"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0804 0x04B0
+}
+}

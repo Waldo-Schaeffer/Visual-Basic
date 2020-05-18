@@ -1,0 +1,3 @@
+本模块适用于:
+Windows Vista
+Windows 7
